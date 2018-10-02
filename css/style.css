@@ -1,0 +1,27 @@
+body {
+	background: #E8EAF6;
+	font-family: 'Montserrat', sans-serif;
+}
+#main {
+	background: #FFF;
+	border:0px solid;
+	border-radius:50px;
+	margin: 50px;
+	padding: 10px;
+}
+#title {
+	text-align: center;
+}
+#img-div {/*
+	background: #E0F2F1;*/
+	margin: auto;
+	text-align: center;
+}
+img {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+p {/*
+	background: #FFEBEE;*/
+}
